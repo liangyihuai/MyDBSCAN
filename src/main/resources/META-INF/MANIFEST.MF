@@ -1,0 +1,60 @@
+Manifest-Version: 1.0
+Class-Path: breeze-macros_2.11-0.11.2.jar spark-network-shuffle_2.11-2
+ .0.2.jar hadoop-yarn-api-2.2.0.jar chill-java-0.8.0.jar parquet-colum
+ n-1.7.0.jar hadoop-annotations-2.2.0.jar stream-2.7.0.jar oro-2.0.8.j
+ ar spark-sketch_2.11-2.0.2.jar hadoop-client-2.2.0.jar hadoop-common-
+ 2.2.0.jar jsr305-1.3.9.jar objenesis-2.1.jar pmml-model-1.2.15.jar ha
+ doop-mapreduce-client-shuffle-2.2.0.jar spark-graphx_2.11-2.0.2.jar v
+ alidation-api-1.1.0.Final.jar aopalliance-1.0.jar commons-lang3-3.3.2
+ .jar json4s-core_2.11-3.2.11.jar ivy-2.4.0.jar spark-mllib-local_2.11
+ -2.0.2.jar spark-streaming_2.11-2.0.2.jar commons-io-2.1.jar log4j-1.
+ 2.17.jar commons-configuration-1.6.jar parquet-encoding-1.7.0.jar jtr
+ ansforms-2.4.0.jar jetty-util-6.1.26.jar commons-net-2.2.jar jul-to-s
+ lf4j-1.7.16.jar hk2-locator-2.4.0-b34.jar slf4j-log4j12-1.7.16.jar co
+ mmons-collections-3.2.1.jar unused-1.0.0.jar avro-1.7.7.jar antlr4-ru
+ ntime-4.5.3.jar jets3t-0.7.1.jar jersey-container-servlet-core-2.22.2
+ .jar univocity-parsers-2.1.1.jar jackson-annotations-2.6.5.jar spark-
+ mllib_2.11-2.0.2.jar hadoop-mapreduce-client-core-2.2.0.jar spark-cat
+ alyst_2.11-2.0.2.jar jackson-module-paranamer-2.6.5.jar commons-httpc
+ lient-3.1.jar avro-ipc-1.7.7.jar scala-reflect-2.11.8.jar commons-com
+ press-1.4.1.jar parquet-jackson-1.7.0.jar commons-beanutils-core-1.8.
+ 0.jar curator-client-2.4.0.jar osgi-resource-locator-1.0.1.jar scala-
+ xml_2.11-1.0.5.jar commons-compiler-2.7.8.jar parquet-common-1.7.0.ja
+ r spire-macros_2.11-0.7.4.jar json4s-ast_2.11-3.2.11.jar xmlenc-0.52.
+ jar xz-1.0.jar minlog-1.3.0.jar jackson-core-2.6.5.jar spire_2.11-0.7
+ .4.jar javax.servlet-api-3.1.0.jar janino-2.7.8.jar jersey-client-2.2
+ 2.2.jar archery_2.11-0.4.0.jar hadoop-hdfs-2.2.0.jar javax.inject-2.4
+ .0-b34.jar javax.ws.rs-api-2.0.1.jar javassist-3.18.1-GA.jar curator-
+ recipes-2.4.0.jar hadoop-yarn-server-common-2.2.0.jar jackson-module-
+ scala_2.11-2.6.5.jar chill_2.11-0.8.0.jar avro-mapred-1.7.7-hadoop2.j
+ ar jcl-over-slf4j-1.7.16.jar guice-3.0.jar jersey-container-servlet-2
+ .22.2.jar aopalliance-repackaged-2.4.0-b34.jar pyrolite-4.13.jar comp
+ ress-lzf-1.0.3.jar metrics-graphite-3.1.2.jar curator-framework-2.4.0
+ .jar jersey-media-jaxb-2.22.2.jar jackson-mapper-asl-1.9.13.jar kryo-
+ shaded-3.0.3.jar core-1.1.2.jar parquet-format-2.3.0-incubating.jar p
+ rotobuf-java-2.5.0.jar commons-math-2.1.jar breeze_2.11-0.11.2.jar sp
+ ark-network-common_2.11-2.0.2.jar metrics-json-3.1.2.jar snappy-java-
+ 1.1.2.6.jar opencsv-2.3.jar jackson-core-asl-1.9.13.jar hadoop-mapred
+ uce-client-common-2.2.0.jar scala-compiler-2.11.0.jar scala-parser-co
+ mbinators_2.11-1.0.4.jar hadoop-yarn-client-2.2.0.jar json4s-jackson_
+ 2.11-3.2.11.jar lz4-1.3.0.jar spark-tags_2.11-2.0.2.jar spark-unsafe_
+ 2.11-2.0.2.jar guava-14.0.1.jar slf4j-api-1.7.16.jar parquet-hadoop-1
+ .7.0.jar hk2-utils-2.4.0-b34.jar mesos-0.21.1-shaded-protobuf.jar had
+ oop-yarn-common-2.2.0.jar py4j-0.10.3.jar leveldbjni-all-1.8.jar java
+ x.inject-1.jar hadoop-auth-2.2.0.jar hk2-api-2.4.0-b34.jar RoaringBit
+ map-0.5.11.jar scala-parser-combinators_2.11-1.0.3.jar scala-reflect.
+ jar scala-xml_2.11-1.0.3.jar scala-actors-migration_2.11-1.1.0.jar sc
+ ala-library.jar scala-actors-2.11.0.jar scala-swing_2.11-1.0.1.jar sp
+ ark-sql_2.11-2.0.2.jar hadoop-mapreduce-client-app-2.2.0.jar jersey-s
+ erver-2.22.2.jar hadoop-mapreduce-client-jobclient-2.2.0.jar commons-
+ digester-1.8.jar arpack_combined_all-0.1.jar netty-3.8.0.Final.jar me
+ trics-jvm-3.1.2.jar zookeeper-3.4.5.jar commons-math3-3.4.1.jar pmml-
+ schema-1.2.15.jar metrics-core-3.1.2.jar javax.annotation-api-1.2.jar
+  jackson-databind-2.6.5.jar commons-lang-2.5.jar commons-codec-1.3.ja
+ r commons-cli-1.2.jar scala-library-2.11.8.jar scalap-2.11.0.jar xbea
+ n-asm5-shaded-4.4.jar jersey-common-2.22.2.jar commons-beanutils-1.7.
+ 0.jar spark-core_2.11-2.0.2.jar jersey-guava-2.22.2.jar avro-ipc-1.7.
+ 7-tests.jar paranamer-2.6.jar spark-launcher_2.11-2.0.2.jar parquet-g
+ enerator-1.7.0.jar netty-all-4.0.29.Final.jar
+Main-Class: 
+
